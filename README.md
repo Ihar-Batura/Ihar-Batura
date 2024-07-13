@@ -4,7 +4,7 @@
 * English - B1 Intermediate, I practice my english with native speakers 10 hours every week
 * I hope to start my way as Junior front-end developer in the near future
 ## Some Tools I Have Used and Learned
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,figma,nodejs,npm,webpack,vite,react,vscode" />
 </p>
 
