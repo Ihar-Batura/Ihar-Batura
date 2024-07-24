@@ -15,8 +15,9 @@ Address: Mogilev, Belarus
 Discord: iharbat 
 
 ## Projects
-* [Coffee-House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
+* [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
 * [Hangman game](https://ihar-batura.github.io/Hangman/hangman/)
+* [Space Travel](https://ihar-batura.github.io/Space-Travel/space-travel/)
 
 
 
