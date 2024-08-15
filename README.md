@@ -5,7 +5,7 @@
 
 ## Some Tools I Have Used and Learned
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,php,figma,nodejs,mysql,npm,webpack,vite,react,vscode,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,figma,git,github,nodejs,npm,webpack,vite,react,vscode,phpstorm" />
 </p>
 
 [![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
