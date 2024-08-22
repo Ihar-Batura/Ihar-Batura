@@ -19,6 +19,7 @@
 
 
 ## Projects
+*[Apps](https://ihar-batura.github.io/Apps/src/)
 * [Travel](https://ihar-batura.github.io/Travel/travel/dist/)
 * [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
 * [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)
