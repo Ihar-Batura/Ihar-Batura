@@ -14,8 +14,8 @@
 
 <p>
 <a href="mailto:a17331582@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://discordapp.com/users/925457041785512027/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://linkedin.com/in/ihar-batura-9840a2325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://discordapp.com/users/925457041785512027/" ><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://linkedin.com/in/ihar-batura-9840a2325" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 
