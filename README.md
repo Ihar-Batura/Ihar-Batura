@@ -21,7 +21,7 @@
 
 ## Projects
 * [Apps](https://ihar-batura.github.io/Apps/src/)
-* [Nonograms]([https://ihar-batura.github.io/Travel/travel/dist/](https://ihar-batura.github.io/Nonograms/dist/))
+* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)
 * [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
 * [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)
 * [Hangman](https://ihar-batura.github.io/Hangman/hangman/)
