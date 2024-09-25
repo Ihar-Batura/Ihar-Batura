@@ -20,11 +20,11 @@
 
 
 ## Projects
-* [Apps](https://ihar-batura.github.io/Apps/src/)
-* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)
 * [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
 * [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)
 * [Hangman](https://ihar-batura.github.io/Hangman/hangman/)
+* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)
+* [Apps](https://ihar-batura.github.io/Apps/src/)
 * [Momentum](https://ihar-batura.github.io/Momentum/src/)
 * [Space Travel](https://ihar-batura.github.io/Space-Travel/space-travel/)
 
