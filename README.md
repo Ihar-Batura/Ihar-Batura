@@ -10,7 +10,7 @@
 
 [![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
 ##  How to reach me
-#### Address: Mogilev, Belarus
+#### Address: Minsk, Belarus
 
 <p>
 <a href="mailto:a17331582@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
