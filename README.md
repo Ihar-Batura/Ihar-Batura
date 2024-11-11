@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ihar
 * I'm currently learning Front-end development everyday
 * I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
-* English - B1 Intermediate, I practice my english with native speakers 10 hours every week
+* English - B1 Intermediate
 
 ## Some Tools I Have Used and Learned
 <p>
