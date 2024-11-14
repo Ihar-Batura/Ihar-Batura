@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Ihar
 
+![](https://komarev.com/ghpvc/?username=Ihar-Batura)
+
 ## I'm a FrontEnd Developer
 * I like to write code
 * I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
@@ -35,6 +37,8 @@
 * [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
 * [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
 * [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)
 
