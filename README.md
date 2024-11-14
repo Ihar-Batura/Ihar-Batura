@@ -1,15 +1,11 @@
 ## Hi there 👋, I'm Ihar
-* I'm currently learning Front-end development everyday
+
+### I'm a FrontEnd Developer
+* I like to write code
 * I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
 * English - B1 Intermediate
 
-## Some Tools I Have Used and Learned
-<p>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,figma,git,github,nodejs,npm,webpack,vite,react,vscode,phpstorm" />
-</p>
-
-[![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
-##  How to reach me
+###  Connect with me
 #### Address: Minsk, Belarus
 
 <p>
@@ -18,15 +14,26 @@
 <a href="https://linkedin.com/in/ihar-batura-9840a2325" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
+### Some Tools I Have Used and Learned
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,figma,git,github,nodejs,npm,webpack,vite,react,vscode,phpstorm" />
+</p>
 
-## Projects
-* [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)
-* [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)
-* [Hangman](https://ihar-batura.github.io/Hangman/hangman/)
-* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)
-* [Apps](https://ihar-batura.github.io/Apps/src/)
-* [Momentum](https://ihar-batura.github.io/Momentum/src/)
-* [Space Travel](https://ihar-batura.github.io/Space-Travel/space-travel/)
+[![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
+
+
+### Some My Projects
+* [Apps](https://ihar-batura.github.io/Apps/src/) html, css, js [repo]([https://ihar-batura.github.io/Apps/src/](https://github.com/Ihar-Batura/Apps))
+
+* [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/) html, css, js, webpack [repo]([https://github.com/Ihar-Batura/Animal-Shelter))
+* [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo]([https://github.com/Ihar-Batura/Coffee-House]))
+* [Christmas Shop](https://rolling-scopes-school.github.io/ihar-batura-JSFE2024Q4/christmas-shop/src/) html, sass, js [repo]([https://github.com/Ihar-Batura/]))
+
+* [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo]([https://github.com/Ihar-Batura/Momentum]))
+* [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo]([https://github.com/Ihar-Batura/Animal-Shelter))
+* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo]([https://github.com/Ihar-Batura/Animal-Shelter))
+
+
 
 
 
