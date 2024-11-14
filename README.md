@@ -39,7 +39,7 @@
 * [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)
 
