@@ -27,12 +27,14 @@
 
 ### Some My Projects
 * [Apps](https://ihar-batura.github.io/Apps/src/) html, css, js [repo](https://github.com/Ihar-Batura/Apps)
+  
 * [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/) html, css, js, webpack [repo](https://github.com/Ihar-Batura/Animal-Shelter)
 * [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo](https://github.com/Ihar-Batura/Coffee-House)
 * [Christmas Shop](https://rolling-scopes-school.github.io/ihar-batura-JSFE2024Q4/christmas-shop/src/) html, sass, js [repo](https://github.com/Ihar-Batura/)
+  
 * [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
-* [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Animal-Shelter)
-* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Animal-Shelter)
+* [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
+* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
 
 
 
