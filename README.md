@@ -6,7 +6,7 @@
 * I like to write code
 * I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
 * English - B1 Intermediate
- <br/>
+ <br />
 
 ###  Connect with me
 #### Address: Minsk, Belarus
@@ -16,7 +16,7 @@
 <a href="https://discordapp.com/users/925457041785512027/" ><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://linkedin.com/in/ihar-batura-9840a2325" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-<br/>
+<br />
 
 ### Some Tools I Have Used and Learned
 <p>
@@ -24,7 +24,7 @@
 </p>
 
 [![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
-<br/>
+<br />
 
 
 ### Some My Projects
@@ -37,8 +37,8 @@
 * [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
 * [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
 * [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true&theme=transparent)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)
 
