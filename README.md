@@ -9,7 +9,7 @@
  <br />
 
 ###  Connect with me
-#### Address: Minsk, Belarus
+#### Address: Mogilev - Minsk, Belarus
 
 <p>
 <a href="mailto:a17331582@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
