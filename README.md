@@ -20,7 +20,7 @@
 
 ### Some Tools I Have Used and Learned
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,figma,git,github,nodejs,npm,webpack,vite,react,vscode,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=js,ts,git,webpack,vite,html,css,sass,figma,nodejs,npm,react,vscode,phpstorm,php,mysql," />
 </p>
 
 [![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
@@ -52,7 +52,7 @@ Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**
 Description: Japanese Crosswords - logic puzzles.  
 Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
 
-[English Puzzles](https://ihar-batura.github.io/)  in process...
+[English Puzzles](https://ihar-batura.github.io/)  in process...  
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
