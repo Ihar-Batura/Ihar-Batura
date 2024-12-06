@@ -28,15 +28,15 @@
 
 
 ### Some My Projects
-* [Apps](https://ihar-batura.github.io/Apps/src/) html, css, js [repo](https://github.com/Ihar-Batura/Apps)
+ [Apps](https://ihar-batura.github.io/Apps/src/) html, css, js [repo](https://github.com/Ihar-Batura/Apps)
   
-* [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/) html, css, js, webpack [repo](https://github.com/Ihar-Batura/Animal-Shelter)
-* [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo](https://github.com/Ihar-Batura/Coffee-House)
-* 
-* [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)
-* Description: Web site about Cristmas and gifts. It's a two pages application
-* Stack: **JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS**
-* [repo](https://github.com/Ihar-Batura/Christmas-shop)
+[Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/) html, css, js, webpack [repo](https://github.com/Ihar-Batura/Animal-Shelter)  
+
+[Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo](https://github.com/Ihar-Batura/Coffee-House)
+
+[Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
+Description: Web site about Cristmas and gifts. It's a two pages application
+Stack: **JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS** [repo](https://github.com/Ihar-Batura/Christmas-shop)
     
 * [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
 * [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
