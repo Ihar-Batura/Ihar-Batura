@@ -35,12 +35,12 @@
 [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo](https://github.com/Ihar-Batura/Coffee-House)
 
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
-Description: Web site about Cristmas and gifts. It's a two pages application
-Stack: **JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS** [repo](https://github.com/Ihar-Batura/Christmas-shop)
-    
-* [Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
-* [Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
-* [Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
+Description: Web site about Cristmas and gifts. It's a two pages application  
+Stack: **JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS** [repo](https://github.com/Ihar-Batura/Christmas-shop)  
+
+[Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
+[Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
+[Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
