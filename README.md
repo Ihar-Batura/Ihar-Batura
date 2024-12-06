@@ -29,15 +29,15 @@
 
 ### Some My Projects
 [Apps](https://ihar-batura.github.io/Apps/src/)  
-Description: Web site with a lot of diffirent apps.  
+Description: A web site with a lot of diffirent apps.  
 Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**
   
 [Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)  
-Description: Web site an animals shelter for two pages.   
+Description: An animals shelter web site for two pages.   
 Stack: **JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, Animation, CSS**  
 
 [Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)  
-Description: Web site a coffee house for two pages.   
+Description: A coffee house web site for two pages.   
 Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
@@ -51,6 +51,10 @@ Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**
 [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)  
 Description: Japanese Crosswords - logic puzzles.  
 Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
+
+[English Puzzles](https://ihar-batura.github.io/)  in process...
+Description: A fun app for learning English.  
+Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
