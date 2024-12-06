@@ -28,19 +28,29 @@
 
 
 ### Some My Projects
- [Apps](https://ihar-batura.github.io/Apps/src/) html, css, js [repo](https://github.com/Ihar-Batura/Apps)
+[Apps](https://ihar-batura.github.io/Apps/src/)  
+Description: Web site with a lot of diffirent apps.  
+Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**
   
-[Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/) html, css, js, webpack [repo](https://github.com/Ihar-Batura/Animal-Shelter)  
+[Shelter](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)  
+Description: Web site an animals shelter for two pages.   
+Stack: **JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, Animation, CSS**  
 
-[Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/) html, css, js [repo](https://github.com/Ihar-Batura/Coffee-House)
+[Coffee House](https://ihar-batura.github.io/Coffee-House/coffee-house/)  
+Description: Web site a coffee house for two pages.   
+Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
-Description: Web site about Cristmas and gifts. It's a two pages application  
-Stack: **JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS** [repo](https://github.com/Ihar-Batura/Christmas-shop)  
+Description: Web site about Cristmas and gifts. It's a two pages application.  
+Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
 
-[Momentum](https://ihar-batura.github.io/Momentum/src/) js [repo](https://github.com/Ihar-Batura/Momentum)
-[Hangman](https://ihar-batura.github.io/Hangman/hangman/) js, css [repo](https://github.com/Ihar-Batura/Hangman)
-[Nonograms](https://ihar-batura.github.io/Nonograms/dist/) js, css, webpack [repo](https://github.com/Ihar-Batura/Nonograms)
+[Hangman Game](https://ihar-batura.github.io/Hangman/hangman/)  
+Description: A bright and exciting quiz game - hangman.  
+Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**  
+
+[Nonograms](https://ihar-batura.github.io/Nonograms/dist/)  
+Description: Japanese Crosswords - logic puzzles.  
+Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
