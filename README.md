@@ -52,7 +52,7 @@ Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**
 Description: Japanese Crosswords - logic puzzles.  
 Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
 
-[English Puzzles](https://ihar-batura.github.io/)  in process...  
+[English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)  in process...  
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
