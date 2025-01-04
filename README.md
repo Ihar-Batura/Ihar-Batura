@@ -32,6 +32,10 @@
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
+[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to start backend [API](https://github.com/Ihar-Batura/async-race-api)**  
+Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Animation, SPA**   
+
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
 Description: Web site about Cristmas and gifts. It's a two pages application.  
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
@@ -55,10 +59,7 @@ Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 [Apps](https://ihar-batura.github.io/Apps/src/)  
 Description: A web site with a lot of diffirent apps.  
 Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**
-  
-[Async Race](https://ihar-batura.github.io/)  in process...  
-Description: Description: car racing, asynchronous programming ([API](https://ihar-batura.github.io/) for work app)  
-Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, LocalStorage, esLint, Prettier, Husky, Animation, SPA**    
+     
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
