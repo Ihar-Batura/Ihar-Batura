@@ -32,7 +32,7 @@
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
-[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to start backend [API](https://github.com/Ihar-Batura/async-race-api)**  
+[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
 Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
 Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Animation, SPA**   
 
