@@ -40,6 +40,10 @@ Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Ani
 Description: Web site about Cristmas and gifts. It's a two pages application.  
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
 
+[Simon Says](https://ihar-batura.github.io/Simon-Says/src/)  
+Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
+Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
+
 [Nonograms](https://ihar-batura.github.io/Nonograms/dist/)  
 Description: Japanese Crosswords - logic puzzles.  
 Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
