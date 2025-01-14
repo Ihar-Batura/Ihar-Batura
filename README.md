@@ -62,7 +62,11 @@ Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 
 [Apps](https://ihar-batura.github.io/Apps/src/)  
 Description: A web site with a lot of diffirent apps.  
-Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**
+Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**  
+
+[Fun Chat](https://github.com/Ihar-Batura/Fun-Chat) ...in process   
+Description: A chat app for chatting with friends.  
+Stack: **TypeScript, JavaScript, Vite, WebSocket, SASS, SessionStorage, Components, Git, Animation, SPA** 
      
 
 ### Statistics
