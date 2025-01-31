@@ -28,26 +28,19 @@
 
 
 ### Some My Projects  
-[English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
-Description: A fun app for learning English.  
-Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
-[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
-Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Animation, SPA**   
-
-[Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
-Description: Web site about Cristmas and gifts. It's a two pages application.  
-Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
+[Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
+Description: Japanese Crosswords - logic puzzles.  
+Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
 
 [Simon Says](https://ihar-batura.github.io/Simon-Says/src/)  
 Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
 Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
 
-[Nonograms](https://ihar-batura.github.io/Nonograms/dist/)  
-Description: Japanese Crosswords - logic puzzles.  
-Stack: **JavaScript, Webpack, JSON, Fetch, LocalStorage, HTML, CSS, Git, Animation, SPA**  
-
+[Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
+Description: Web site about Cristmas and gifts. It's a two pages application.  
+Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
+  
 [Hangman Game](https://ihar-batura.github.io/Hangman/hangman/)  
 Description: A bright and exciting quiz game - hangman.  
 Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**  
@@ -63,6 +56,14 @@ Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 [Apps](https://ihar-batura.github.io/Apps/src/)  
 Description: A web site with a lot of diffirent apps.  
 Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**  
+
+[English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
+Description: A fun app for learning English.  
+Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
+
+[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
+Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Animation, SPA**  
 
 [Fun Chat](https://github.com/Ihar-Batura/Fun-Chat) ...in process   
 Description: A chat app for chatting with friends.  
