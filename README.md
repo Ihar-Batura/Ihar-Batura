@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=figma,vscode,git,html,css,sass,js,ts,webpack,vite,nodejs" />
 </p>
 
-[![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
+[![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/rsschool_ecb2db568c960eb5)   
 <br />
 
 
