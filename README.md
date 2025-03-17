@@ -29,6 +29,10 @@
 
 ### Some My Projects  
 
+[Decision Making Tool](https://ihar-batura.github.io/)   
+Description: A single page application (SPA) for decision making.  
+Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, Canvas API, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
+
 [English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
