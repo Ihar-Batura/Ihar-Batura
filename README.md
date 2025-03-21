@@ -29,7 +29,7 @@
 
 ### Some My Projects  
 
-[Decision Making Tool](https://rolling-scopes-school.github.io/ihar-batura-JSFE2024Q4/decision-making-tool/dist/)   
+[Decision Making Tool](https://ihar-batura.github.io/Decision-Making-Tool/decision-making-tool/)   
 Description: A single page application (SPA) for decision making.  
 Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, Canvas API, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
 
