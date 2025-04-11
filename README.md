@@ -50,7 +50,7 @@ Description: Web site about Cristmas and gifts. It's a two pages application.
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
 
 [Async Race](https://ihar-batura.github.io/Async-Race-2025/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Description: Car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
 Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
   
 [Hangman Game](https://ihar-batura.github.io/Hangman/hangman/)  
