@@ -48,6 +48,10 @@ Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
 Description: Web site about Cristmas and gifts. It's a two pages application.  
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
+
+[Async Race](https://ihar-batura.github.io/Async-Race-2025/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
+Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
   
 [Hangman Game](https://ihar-batura.github.io/Hangman/hangman/)  
 Description: A bright and exciting quiz game - hangman.  
@@ -64,10 +68,6 @@ Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 [Apps](https://ihar-batura.github.io/Apps/src/)  
 Description: A web site with a lot of diffirent apps.  
 Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**  
-
-[Async Race](https://ihar-batura.github.io/Async-Race/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: Description: car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
-Stack: **TypeScript, Webpack, JavaScript, REST, HTML, CSS, EsLint, Prettier, Animation, SPA**  
 
 [Fun Chat](https://github.com/Ihar-Batura/Fun-Chat) ...in process   
 Description: A chat app for chatting with friends.  
