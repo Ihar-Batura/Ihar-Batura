@@ -37,6 +37,10 @@ Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, C
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
+[Fun Chat](https://rolling-scopes-school.github.io/ihar-batura-JSFE2024Q4/fun-chat/dist/) **+ need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
+Description: A chat app for chatting with friends. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app) 
+Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
+
 [Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
 Description: Japanese Crosswords - logic puzzles.  
 Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
@@ -68,12 +72,7 @@ Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**
 [Apps](https://ihar-batura.github.io/Apps/src/)  
 Description: A web site with a lot of diffirent apps.  
 Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**  
-
-[Fun Chat](https://github.com/Ihar-Batura/Fun-Chat) ...in process   
-Description: A chat app for chatting with friends.  
-Stack: **TypeScript, JavaScript, Vite, WebSocket, SASS, SessionStorage, Components, Git, Animation, SPA** 
      
-
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
 
