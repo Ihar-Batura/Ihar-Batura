@@ -9,7 +9,7 @@
  <br />
 
 ###  Connect with me
-#### Address: Mogilev - Minsk, Belarus
+#### Address: Mogilev, Belarus
 
 <p>
 <a href="mailto:a17331582@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -29,6 +29,10 @@
 
 ### Some My Projects  
 
+[Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
+Description: Japanese Crosswords - logic puzzles.  
+Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
+
 [Decision Making Tool](https://ihar-batura.github.io/Decision-Making-Tool/decision-making-tool/)   
 Description: A single page application (SPA) for decision making.  
 Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, Canvas API, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
@@ -37,13 +41,9 @@ Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, C
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
-[Fun Chat](https://rolling-scopes-school.github.io/ihar-batura-JSFE2024Q4/fun-chat/dist/) **+ need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
+[Fun Chat](https://ihar-batura.github.io/Fun-Chat/dist/) **+ need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
 Description: A chat app for chatting with friends. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app) 
 Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
-
-[Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
-Description: Japanese Crosswords - logic puzzles.  
-Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
 
 [Simon Says](https://ihar-batura.github.io/Simon-Says/src/)  
 Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
