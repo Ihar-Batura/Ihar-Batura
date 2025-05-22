@@ -29,33 +29,37 @@
 
 ### Some My Projects  
 
-[Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
-Description: Japanese Crosswords - logic puzzles.  
-Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
+[English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
+Description: A fun app for learning English.  
+Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
 [Decision Making Tool](https://ihar-batura.github.io/Decision-Making-Tool/decision-making-tool/)   
 Description: A single page application (SPA) for decision making.  
 Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, Canvas API, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
 
-[English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
-Description: A fun app for learning English.  
-Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
-
 [Fun Chat](https://ihar-batura.github.io/Fun-Chat/dist/) **+ need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
 Description: A chat app for chatting with friends. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app) 
 Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
 
-[Simon Says](https://ihar-batura.github.io/Simon-Says/src/)  
-Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
-Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
+[Async Race](https://ihar-batura.github.io/Async-Race-2025/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
+Description: Car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
+
+[Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
+Description: Japanese Crosswords - logic puzzles.  
+Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
 
 [Christmas Shop](https://ihar-batura.github.io/Christmas-shop/src/)  
 Description: Web site about Cristmas and gifts. It's a two pages application.  
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
 
-[Async Race](https://ihar-batura.github.io/Async-Race-2025/dist/)  **+ need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: Car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
-Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
+[eCommerce Application](https://ihar-batura.github.io/)  
+Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
+Stack: **TypeScript, React, Sass modules,SPA, MUI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git**  
+
+[Simon Says](https://ihar-batura.github.io/Simon-Says/src/)  
+Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
+Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
   
 [Hangman Game](https://ihar-batura.github.io/Hangman/hangman/)  
 Description: A bright and exciting quiz game - hangman.  
