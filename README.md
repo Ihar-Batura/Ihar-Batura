@@ -47,7 +47,7 @@ Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS 
 
 [eCommerce Application](https://dyson-ecommerce.netlify.app/)  
 Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
-Stack: **TypeScript, React, Sass modules,SPA, MUI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git**  
+Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
 [Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
 Description: Japanese Crosswords - logic puzzles.  
