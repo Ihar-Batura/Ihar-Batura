@@ -29,6 +29,10 @@
 
 ### Some My Projects  
 
+[eCommerce Application](https://dyson-ecommerce.netlify.app/)  
+Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
+Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
+
 [Fun Chat](https://ihar-batura.github.io/Fun-Chat/dist/) **+ need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
 Description: A chat app for chatting with friends. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app) 
 Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
@@ -44,10 +48,6 @@ Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, C
 [English Puzzles](https://ihar-batura.github.io/English-Puzzle/dist/)   
 Description: A fun app for learning English.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
-
-[eCommerce Application](https://dyson-ecommerce.netlify.app/)  
-Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
-Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
 [Nonograms](https://ihar-batura.github.io/Nonograms-2025/dist/)  
 Description: Japanese Crosswords - logic puzzles.  
