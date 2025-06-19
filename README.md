@@ -2,10 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Ihar-Batura)
 
-## I'm a FrontEnd Developer
-* I like to write code
-* I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
-* English - B1 Intermediate
+## I'm a Frontend Developer | React & TypeScript, JavaScript Specialist | Codewars Top 1%
+* Results-driven and visionary Frontend Developer transforming complex requirements into intuitive web experiences. 
+* Leveraging cutting-edge React and TypeScript ecosystems to build responsive SPAs with measurable performance gains.
+* Demonstrated problem-solving excellence through 570+ algorithmic challenges solved (Rank 3 kyu - top 1% on Codewars).
+* Committed to clean architecture principles and collaborative development.
+* English: Professional Working Proficiency (B1)
  <br />
 
 ###  Connect with me
