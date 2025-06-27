@@ -31,7 +31,7 @@
 
 ### Some My Projects  
 
-[eCommerce Application](https://dyson-ecommerce.netlify.app/)  
+**eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)** 
 Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
 Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
