@@ -16,7 +16,7 @@
 <p>
 <a href="mailto:a17331582@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://discordapp.com/users/925457041785512027/" ><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://linkedin.com/in/ihar-batura-9840a2325" target="_blank" rel="noopener"" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/ihar-batura-9840a2325" ><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 <br />
 
@@ -31,7 +31,7 @@
 
 ### Some My Projects  
 
-**eCommerce Application** <a href="https://dyson-ecommerce.netlify.app/ " target="_blank" rel="noopener">Link</a>   
+**eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)**  
 Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
 Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
