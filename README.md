@@ -22,7 +22,7 @@
 
 ### Some Tools I Have Used and Learned
 <p>
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,materialui,html,css,sass,git,npm,webpack,vite,vitest,postman,figma,vscode,babel" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,materialui,html,css,sass,git,npm,webpack,vite,vitest,postman,figma,vscode,babel,nextjs,redux" />
 </p>
 
 [![codewars](https://www.codewars.com/users/Ihar_blr/badges/large)](https://www.codewars.com/users/Ihar_blr)   
