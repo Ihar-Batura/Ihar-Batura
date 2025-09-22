@@ -29,7 +29,7 @@
 <br />
 
 
-### My certificates
+### My Certificates
 
 **RS School Course JavaScript/Front-end 2024Q4 [Link](https://app.rs.school/certificate/szlrvp8n)**  
 
