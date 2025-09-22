@@ -7,7 +7,7 @@
 * Leveraging cutting-edge React and TypeScript ecosystems to build responsive SPAs with measurable performance gains.
 * Demonstrated problem-solving excellence through 570+ algorithmic challenges solved (Rank 3 kyu - top 1% on Codewars).
 * Committed to clean architecture principles and collaborative development.
-* English: Professional Working Proficiency (B1)
+* English: Professional Working Proficiency (B2)
  <br />
 
 ###  Connect with me
@@ -30,6 +30,10 @@
 
 
 ### Some My Projects  
+
+**REST Client <a href="https://react-2025-q3-rest-client.netlify.app/en" target="_blank" rel="noopener noreferrer">[Link]</a>**  
+Description: A browser-based REST Client with auth, history, variables, and multi-language support for streamlined API testing and development. A tool for testing and sending HTTP requests..  
+Stack: **React, Next, TypeScript, Shadcn-ui, Tailwind, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
 
 **eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)**  
 Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
