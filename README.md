@@ -29,9 +29,15 @@
 <br />
 
 
+### My certificates
+
+**RS School Course JavaScript/Front-end 2024Q4 [Link](https://app.rs.school/certificate/szlrvp8n)**  
+
+**RS School Course React 2025 Q3 [Link](https://app.rs.school/certificate/szlrvp8n)**  
+
 ### Some My Projects  
 
-**REST Client [Link](https://react-2025-q3-rest-client.netlify.app/en){:target="_blank" rel="noopener noreferrer"}</a>**  
+**REST Client [Link](https://react-2025-q3-rest-client.netlify.app/en)**  
 Description: A browser-based REST Client with auth, history, variables, and multi-language support for streamlined API testing and development. A tool for testing and sending HTTP requests..  
 Stack: **React, Next, TypeScript, Shadcn-ui, Tailwind, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
 
