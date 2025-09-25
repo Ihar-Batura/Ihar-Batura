@@ -38,8 +38,8 @@
 ### Some My Projects  
 
 **REST Client [Link](https://react-2025-q3-rest-client.netlify.app/en)**  
-Description: A browser-based REST Client with auth, history, variables, and multi-language support for streamlined API testing and development. A tool for testing and sending HTTP requests..  
-Stack: **React, Next, Redux Toolkit, TypeScript, Shadcn-ui, Tailwind, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
+Description: A browser-based REST Client with auth, history, variables, and multi-language support for streamlined API testing and development. A tool for testing and sending HTTP requests.  
+Stack: **React, Next, Redux Toolkit, TypeScript, Shadcn-ui, Tailwind CSS, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
 
 **eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)**  
 Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
