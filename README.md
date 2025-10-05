@@ -42,35 +42,35 @@ Description: A browser-based REST Client with auth, history, variables, and mult
 Stack: **React, Next, Redux Toolkit, TypeScript, Shadcn-ui, Tailwind CSS, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
 
 **eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)**  
-Description: An eCommerce application! This platform replicates real-world shopping experiences in a digital environment. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence..  
+Description: A responsive, custom-built eCommerce SPA using React, TypeScript, and CommerceTools. Features include user authentication, a dynamic product catalog with search and filtering, detailed product pages with image sliders, and a fully functional shopping basket with promo code support. Users can manage their profiles and addresses. Optimized for screens from 390px+, the app uses only unique CommerceTools data—no templates or jQuery—for a realistic, scalable shopping experience.  
 Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
 **Fun Chat [Link](https://ihar-batura.github.io/Fun-Chat/dist/) + need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
-Description: A chat app for chatting with friends. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app) 
+Description: Fun Chat is a secure application, real-time messaging app built with WebSockets. It features user authentication, online status, unread message counters, message editing/deletion, delivery/read receipts, and responsive design—all in a privacy-focused, single-page application with zero hardcoded HTML. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app)  
 Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
 
 **Async Race [Link](https://ihar-batura.github.io/Async-Race-2025/dist/)  + need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: Car racing, asynchronous programming ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Description: An interactive SPA for managing and racing remote-controlled cars using asynchronous JavaScript and TypeScript. Features include CRUD operations for cars, real-time engine control with smooth animations, drag races with winner detection, and a leaderboard with pagination and sorting. Built without frameworks—just vanilla TypeScript, CSS, and fetch—fully responsive from 500px, and powered by a mock REST API to simulate real car behavior and race statistics. ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
 Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
 
 **Decision Making Tool [Link](https://ihar-batura.github.io/Decision-Making-Tool/decision-making-tool/)**   
-Description: A single page application (SPA) for decision making.  
+Description: A lightweight SPA that helps users make weighted random decisions—perfect for streamers, content creators, and tabletop gamers. Create, edit, and save custom options with adjustable weights to influence selection chances. Visualize choices on a dynamic animated wheel with sound, duration control, and result highlighting. Supports file import/export, responsive design (640–1280px), and seamless navigation—all built with vanilla TypeScript, no frameworks, and strict code quality standards.  
 Stack: **TypeScript, JavaScript, Vite, Hash Router, Web Storage API, File API, Canvas API, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
 
 **English Puzzles [Link](https://ihar-batura.github.io/English-Puzzle/dist/)**   
-Description: A fun app for learning English.  
+Description: A fun, interactive English-learning game where players assemble jumbled words into correct sentences. Features six difficulty levels, drag-and-drop puzzle-like word cards, translation and audio hints, and artwork revealed as you progress. Built with vanilla TypeScript—no frameworks—fully responsive, and designed to make language practice engaging, visual, and rewarding for learners of all levels.  
 Stack: **TypeScript, JavaScript, Vite, Drag&Drop, JSON, REST, LocalStorage, CSS modules, Components, Git, Animation, SPA**  
 
 **Nonograms [Link](https://ihar-batura.github.io/Nonograms-2025/dist/)**  
-Description: Japanese Crosswords - logic puzzles.  
+Description: Japanese Crosswords (Nonograms) — a classic logic puzzle game where you reveal hidden pixel art using numerical clues. Features multiple difficulty levels (5x5 to 15x15), 15+ unique puzzles, timer, sound effects, save/load, dark/light themes, and a solution helper—all built with vanilla JavaScript, fully responsive.  
 Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
 
 **Simon Says [Link](https://ihar-batura.github.io/Simon-Says/src/)**  
-Description: A game, where players must remember and reproduce sequences of keyboard symbols.  
+Description:A memory-challenge game where players repeat increasingly long sequences of letters and numbers. Features three difficulty levels, virtual and physical keyboard support, visual feedback, round progression, and responsive design—all built with vanilla JavaScript, no frameworks.  
 Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
   
 **Hangman Game [Link](https://ihar-batura.github.io/Hangman/hangman/)**  
-Description: A bright and exciting quiz game - hangman.  
+Description: A bright and engaging Hangman game where players guess letters to uncover hidden words. Features responsive design (360px–1440px), virtual and physical keyboard support, animated gallows, and randomized questions. Built with vanilla JavaScript—no frameworks—ensuring smooth, accessible gameplay and dynamic resets without page reloads.  
 Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**  
 
 **Christmas Shop [Link](https://ihar-batura.github.io/Christmas-shop/src/)**  
