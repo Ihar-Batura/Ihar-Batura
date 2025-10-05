@@ -46,11 +46,11 @@ Description: A responsive, custom-built eCommerce SPA using React, TypeScript, a
 Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
 **Fun Chat [Link](https://ihar-batura.github.io/Fun-Chat/dist/) + need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server)**  
-Description: Fun Chat is a secure application, real-time messaging app built with WebSockets. It features user authentication, online status, unread message counters, message editing/deletion, delivery/read receipts, and responsive design—all in a privacy-focused, single-page application with zero hardcoded HTML. ([API](https://github.com/Ihar-Batura/fun-chat-server) for work app)  
+Description: Fun Chat is a secure application, real-time messaging app built with WebSockets. It features user authentication, online status, unread message counters, message editing/deletion, delivery/read receipts, and responsive design—all in a privacy-focused, single-page application with zero hardcoded HTML.  
 Stack: **WebSocket, SASS, SessionStorage, TypeScript, Git, Vite, Animation, Hash Router, SPA, ESLint, Prettier, StyleLint, Husky** 
 
 **Async Race [Link](https://ihar-batura.github.io/Async-Race-2025/dist/)  + need to run backend [API](https://github.com/Ihar-Batura/async-race-api)**  
-Description: An interactive SPA for managing and racing remote-controlled cars using asynchronous JavaScript and TypeScript. Features include CRUD operations for cars, real-time engine control with smooth animations, drag races with winner detection, and a leaderboard with pagination and sorting. Built without frameworks—just vanilla TypeScript, CSS, and fetch—fully responsive from 500px, and powered by a mock REST API to simulate real car behavior and race statistics. ([API](https://github.com/Ihar-Batura/async-race-api) for work app)  
+Description: An interactive SPA for managing and racing remote-controlled cars using asynchronous JavaScript and TypeScript. Features include CRUD operations for cars, real-time engine control with smooth animations, drag races with winner detection, and a leaderboard with pagination and sorting. Built without frameworks—just vanilla TypeScript, CSS, and fetch—fully responsive from 500px, and powered by a mock REST API to simulate real car behavior and race statistics.  
 Stack: **TypeScript, REST, JavaScript, Vite, requestAnimationFrame, Prettier, ESLint, StyleLint, Husky, Sass, JSON, Git, Animation, SPA**  
 
 **Decision Making Tool [Link](https://ihar-batura.github.io/Decision-Making-Tool/decision-making-tool/)**   
@@ -74,28 +74,18 @@ Description: A bright and engaging Hangman game where players guess letters to u
 Stack: **JavaScript, HTML, CSS, Git, Animation, SPA**  
 
 **Christmas Shop [Link](https://ihar-batura.github.io/Christmas-shop/src/)**  
-Description: Web site about Cristmas and gifts. It's a two pages application.  
+Description: A festive two-page Christmas shop website featuring a responsive home and gifts page. Includes interactive elements like a countdown timer, gift slider, category filtering, modal popups, and a mobile-friendly burger menu—all built with vanilla HTML, CSS, and JavaScript, fully responsive from 380px to 1440px.  
 Stack: **JavaScript, Figma, Fetch, JSON, Git, HTML, Animation, Sass**  
 
 **Shelter [Link](https://ihar-batura.github.io/Animal-Shelter/shelter/src/)**  
-Description: An animals shelter web site for two pages.   
+Description: A responsive two-page website for an animal shelter, featuring a homepage and pets page. Built with semantic HTML, CSS, and vanilla JavaScript—includes a burger menu, pet card modals, an infinite carousel, and pagination. Fully adaptive from 320px to 1280px, with no frameworks or libraries.   
 Stack: **JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, Animation, CSS**  
 
 **Coffee House [Link](https://ihar-batura.github.io/Coffee-House/coffee-house/)**  
-Description: A coffee house web site for two pages.   
-Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**  
-
-**Apps [Link](https://ihar-batura.github.io/Apps/src/)**  
-Description: A web site with a lot of diffirent apps.  
-Stack: **JavaScript, Canvas, Audio, Video, Fetch, Git, HTML, Animation, CSS**  
+Description: A cozy two-page website for a coffee house, featuring responsive Home and Menu pages. Built with semantic HTML, CSS, and vanilla JavaScript—includes a burger menu, product filtering, modal popups, and an auto-scrolling carousel. Fully responsive from 380px to 1440px, with no frameworks or libraries.   
+Stack: **JavaScript, Fetch, Figma, JSON, Git, HTML, Animation, CSS**   
      
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)
-
-
-
-
-
-
