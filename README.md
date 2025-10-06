@@ -33,7 +33,7 @@
 
 **RS School Course JavaScript/Front-end 2024Q4 [Link](https://app.rs.school/certificate/szlrvp8n)**  
 
-**RS School Course React 2025 Q3 [Link](https://app.rs.school/certificate/wrquyzoo)**  
+**RS School Course React 2025Q3 [Link](https://app.rs.school/certificate/wrquyzoo)**  
 
 ### Some My Projects  
 
