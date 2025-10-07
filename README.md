@@ -7,7 +7,7 @@
 * Leveraging cutting-edge React and TypeScript ecosystems to build responsive SPAs with measurable performance gains.
 * Demonstrated problem-solving excellence through 570+ algorithmic challenges solved (Rank 3 kyu - top 1% on Codewars).
 * Committed to clean architecture principles and collaborative development.
-* English: Professional Working Proficiency (B2)
+* English: Professional Working Proficiency (B1)
  <br />
 
 ###  Connect with me
