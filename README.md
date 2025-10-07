@@ -41,7 +41,7 @@
 Description: A browser-based REST Client with auth, history, variables, and multi-language support for streamlined API testing and development. A tool for testing and sending HTTP requests.  
 Stack: **React, Next, Redux Toolkit, TypeScript, Shadcn-ui, Tailwind CSS, i18n, App Router, Husky, Jest, Zod, Firebase, ESLint, Prettier, Fetch**  
 
-**eCommerce Application [Link](https://dyson-ecommerce.netlify.app/)**  
+**eCommerce Application [Link](https://e-commerce-dyson.netlify.app/)**  
 Description: A responsive, custom-built eCommerce SPA using React, TypeScript, and CommerceTools. Features include user authentication, a dynamic product catalog with search and filtering, detailed product pages with image sliders, and a fully functional shopping basket with promo code support. Users can manage their profiles and addresses. Optimized for screens from 390px+, the app uses only unique CommerceTools data—no templates or jQuery—for a realistic, scalable shopping experience.  
 Stack: **React, TypeScript, Commerce Tools, Sass modules, SPA, Material UI, Husky, Vitest, Vite, Yup, ESLint, Prettier, Git, Swiper, Fetch**  
 
