@@ -66,7 +66,7 @@ Description: Japanese Crosswords (Nonograms) — a classic logic puzzle game whe
 Stack: **JavaScript, Vite, LocalStorage, JSON, Audio, HTML, SASS, Git, SPA, ESLint, Prettier, Husky**  
 
 **Simon Says [Link](https://ihar-batura.github.io/Simon-Says/src/)**  
-Description:A memory-challenge game where players repeat increasingly long sequences of letters and numbers. Features three difficulty levels, virtual and physical keyboard support, visual feedback, round progression, and responsive design—all built with vanilla JavaScript, no frameworks.  
+Description: A memory-challenge game where players repeat increasingly long sequences of letters and numbers. Features three difficulty levels, virtual and physical keyboard support, visual feedback, round progression, and responsive design—all built with vanilla JavaScript, no frameworks.  
 Stack: **JavaScript, JavaScript modules, SASS, HTML, CSS, Git, Animation, SPA**  
   
 **Hangman Game [Link](https://ihar-batura.github.io/Hangman/hangman/)**  
