@@ -32,8 +32,8 @@
 
 ## 📜 **Certificates**
 <div align="center">
-[![RS School JS/FE](https://img.shields.io/badge/RS%20School-JS/FE-brightgreen)](https://app.rs.school/certificate/szlrvp8n)
-[![RS School React](https://img.shields.io/badge/RS%20School-React-brightgreen)](https://app.rs.school/certificate/wrquyzoo)
+[![RS School JS/FE 2024Q4](https://img.shields.io/badge/RS_School-JS/FE_2024Q4-brightgreen)](https://app.rs.school/certificate/szlrvp8n)
+[![RS School React 2025Q3](https://img.shields.io/badge/RS_School-React_2025Q3-brightgreen)](https://app.rs.school/certificate/wrquyzoo)
 
 **Top 5-7% of 1000+ participants**
 </div>
