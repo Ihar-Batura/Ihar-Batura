@@ -24,34 +24,30 @@
 | Project | Description | Demo | Tech Stack |
 |---------|-------------|------|------------|
 | **REST Client** | Production API testing tool with auth, history, env vars, i18n | [Live](https://react-2025-q3-rest-client.netlify.app/en) | Next.js, RTK Query, TypeScript, shadcn/ui, Firebase |
-| **eCommerce SPA** | Full shopping app (catalog/cart/auth/profile) w/ CommerceTools | [Live](https://e-commerce-dyson.netlify.app/) | React, TypeScript, Material UI, Vitest, Vite |
+| **eCommerce SPA** | Full shopping app (catalog/cart/auth/profile) with CommerceTools | [Live](https://e-commerce-dyson.netlify.app/) | React, TypeScript, Material UI, Vitest, Vite |
 | **Fun Chat** | Real-time WebSocket messenger (read receipts/editing/status) | [Live](https://ihar-batura.github.io/Fun-Chat/dist/) | TypeScript, WebSocket, Vite, Sass |
-| **Async Race** | Car racing game w/ CRUD/animations/leaderboard | [Live](https://ihar-batura.github.io/Async-Race-2025/dist/) | TypeScript, REST API, Canvas, Vite |
+| **Async Race** | Car racing game with CRUD/animations/leaderboard | [Live](https://ihar-batura.github.io/Async-Race-2025/dist/) | TypeScript, REST API, Canvas, Vite |
 
 <br/>
 
 ## 📜 **Certificates**
 <div align="center">
-<a href="https://app.rs.school/certificate/szlrvp8n">
-<img src="https://app.rs.school/certificate/szlrvp8n" width="200" alt="RS School JS/FE"/>
-</a>
-<a href="https://app.rs.school/certificate/wrquyzoo">
-<img src="https://app.rs.school/certificate/wrquyzoo" width="200" alt="RS School React"/>
-</a>
+[![RS School JS/FE 2024Q4](https://img.shields.io/badge/RS%20School-JS/FE%202024Q4-brightgreen)](https://app.rs.school/certificate/szlrvp8n)
+[![RS School React 2025Q3](https://img.shields.io/badge/RS%20School-React%202025Q3-brightgreen)](https://app.rs.school/certificate/wrquyzoo)
+
+**Top 5-7% of 1000+ participants**
 </div>
 
 <br/>
 
 ## 📊 **GitHub Stats**
 <div align="center">
-
 [![Ihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <br/>
 
 <div align="center">
-**Ready to relocate from Belarus 🚀**
+**Mogilev, Belarus • Ready to relocate 🚀**
 </div>
