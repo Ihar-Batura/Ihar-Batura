@@ -43,7 +43,8 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ihar-Batura&label=Profile%20views&color=0e75b6&style=flat" alt="views">
+  
+![](https://komarev.com/ghpvc/?username=Ihar-Batura)
 ![Stats](https://stats.ybh.es/github/Ihar-Batura)
 ![Top Langs](https://stats.ybh.es/github-lang/Ihar-Batura)
 </div>
