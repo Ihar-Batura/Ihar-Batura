@@ -33,8 +33,8 @@
 ## 📜 **Certificates**
 <div align="center"> 
 
-**RS School JS/FE 2024Q4 — [Certificate](https://app.rs.school/certificate/szlrvp8n)**  
-**RS School React 2025Q3 — [Certificate](https://app.rs.school/certificate/wrquyzoo)**
+**RS School JS/FE 2024Q4** — [Certificate](https://app.rs.school/certificate/szlrvp8n)  
+**RS School React 2025Q3** — [Certificate](https://app.rs.school/certificate/wrquyzoo)
 
 **Top 5-7% of 1000+ participants**
 </div>
@@ -43,12 +43,14 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-[![Ihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)
 </div>
 
 <br/>
 
 <div align="center">
+  
 **Mogilev, Belarus • Ready to relocate 🚀**
 </div>
