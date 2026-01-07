@@ -31,9 +31,10 @@
 <br/>
 
 ## 📜 **Certificates**
-<div align="center">
-**RS School JS/FE 2024Q4** — [Certificate](https://app.rs.school/certificate/szlrvp8n)  
-**RS School React 2025Q3** — [Certificate](https://app.rs.school/certificate/wrquyzoo)
+<div align="center"> 
+
+**RS School JS/FE 2024Q4 — [Certificate](https://app.rs.school/certificate/szlrvp8n)**  
+**RS School React 2025Q3 — [Certificate](https://app.rs.school/certificate/wrquyzoo)**
 
 **Top 5-7% of 1000+ participants**
 </div>
