@@ -25,8 +25,8 @@
 |---------|-------------|------|------------|
 | **REST Client** | Production API testing tool with auth, history, env vars, i18n | [Live](https://react-2025-q3-rest-client.netlify.app/en) | Next.js, RTK Query, TypeScript, shadcn/ui, Firebase |
 | **eCommerce SPA** | Full shopping app (catalog/cart/auth/profile) with CommerceTools | [Live](https://e-commerce-dyson.netlify.app/) | React, TypeScript, Material UI, Vitest, Vite |
-| **Fun Chat** | Real-time WebSocket messenger (read receipts/editing/status) | [Live](https://ihar-batura.github.io/Fun-Chat/dist/) | TypeScript, WebSocket, Vite, Sass |
-| **Async Race** | Car racing game with CRUD/animations/leaderboard | [Live](https://ihar-batura.github.io/Async-Race-2025/dist/) | TypeScript, REST API, Canvas, Vite |
+| **Fun Chat** | Real-time WebSocket messenger (read receipts/editing/status) + need to run backend [API](https://github.com/Ihar-Batura/fun-chat-server) | [Live](https://ihar-batura.github.io/Fun-Chat/dist/) | TypeScript, WebSocket, Vite, Sass |
+| **Async Race** | Car racing game with CRUD/animations/leaderboard + need to run backend [API](https://github.com/Ihar-Batura/async-race-api) | [Live](https://ihar-batura.github.io/Async-Race-2025/dist/) | TypeScript, REST API, Canvas, Vite |
 
 <br/>
 
@@ -45,7 +45,9 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=Ihar-Batura)
+<br/>
 ![Stats](https://stats.ybh.es/github/Ihar-Batura)
+<br/>
 ![Top Langs](https://stats.ybh.es/github-lang/Ihar-Batura)
 </div>
 
