@@ -46,6 +46,7 @@
   
 ![](https://komarev.com/ghpvc/?username=Ihar-Batura)
 <br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihar-Batura)](https://git.io/streak-stats)
 </div>
 
