@@ -46,11 +46,11 @@
   
 ![](https://komarev.com/ghpvc/?username=Ihar-Batura)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura)](https://github.com/anuraghazra/github-readme-stats)
+[![Ihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihar-Batura)](https://git.io/streak-stats)
-<br/>
-![Ihar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ihar-Batura&theme=github-compact)
 </div>
 
 <br/>
