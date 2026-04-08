@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Ihar Batura**  
 **Frontend Developer** (React, Next.js, TypeScript)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Intel1igent-blue)](https://t.me/Intel1igent) [![Email](https://img.shields.io/badge/Email-a17331582@gmail.com-red)](mailto:a17331582@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/ihar-batura) [![Portfolio](https://img.shields.io/badge/Portfolio-razrabotchik.by-orange)](https://razrabotchik.by/en)
+[![Email](https://img.shields.io/badge/Email-a17331582@gmail.com-red)](mailto:a17331582@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/ihar-batura) [![Portfolio](https://img.shields.io/badge/Portfolio-razrabotchik.by-orange)](https://razrabotchik.by/)
 
 **2+ years building scalable SPAs and eCommerce**  
 **Top 5-7% RS School** | **3 kyu Codewars** (570+ challenges) | **English B1+**
@@ -46,9 +46,13 @@
   
 ![](https://komarev.com/ghpvc/?username=Ihar-Batura)
 <br/>
-![Stats](https://stats.ybh.es/github/Ihar-Batura)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-Batura)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-![Top Langs](https://stats.ybh.es/github-lang/Ihar-Batura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihar-Batura)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihar-Batura)](https://git.io/streak-stats)
+<br/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ihar-Batura&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
 <br/>
